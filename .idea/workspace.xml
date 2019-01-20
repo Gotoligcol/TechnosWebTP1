@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9c4a3fc4-e9f5-4c76-9e77-cc57e7b71099" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/BG.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ContactMe.html" beforeDir="false" afterPath="$PROJECT_DIR$/ContactMe.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WhoAmI.html" beforeDir="false" afterPath="$PROJECT_DIR$/WhoAmI.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/XP.html" beforeDir="false" afterPath="$PROJECT_DIR$/XP.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Passions.html" beforeDir="false" afterPath="$PROJECT_DIR$/Passions.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,11 +14,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="140">
-              <caret line="149" column="18" selection-start-line="149" selection-start-column="18" selection-end-line="149" selection-end-column="18" />
+            <state relative-caret-position="486">
+              <caret line="419" column="5" lean-forward="true" selection-start-line="419" selection-start-column="5" selection-end-line="419" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -38,9 +35,16 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Passions.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Passions.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Passions.html">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="486">
+              <caret line="58" column="39" selection-start-line="58" selection-start-column="39" selection-end-line="58" selection-end-column="39" />
+              <folding>
+                <element signature="n#footer#0;n#html#0;n#!!top" />
+              </folding>
+            </state>
+          </provider>
         </entry>
       </file>
       <file leaf-file-name="CV.html" pinned="false" current-in-tab="false">
@@ -86,6 +90,7 @@
         <option value="$PROJECT_DIR$/ContactMe.html" />
         <option value="$PROJECT_DIR$/XP.html" />
         <option value="$PROJECT_DIR$/WhoAmI.html" />
+        <option value="$PROJECT_DIR$/Passions.html" />
         <option value="$PROJECT_DIR$/style.css" />
       </list>
     </option>
@@ -152,12 +157,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1547980272269</updated>
-      <workItem from="1547980273990" duration="6901000" />
+      <workItem from="1547980273990" duration="10937000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6901000" />
+    <option name="totallyTimeSpent" value="10937000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="846" extended-state="6" />
@@ -191,9 +196,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Passions.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/CV.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -232,8 +234,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="149" column="18" selection-start-line="149" selection-start-column="18" selection-end-line="149" selection-end-column="18" />
+        <state relative-caret-position="486">
+          <caret line="419" column="5" lean-forward="true" selection-start-line="419" selection-start-column="5" selection-end-line="419" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Passions.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="58" column="39" selection-start-line="58" selection-start-column="39" selection-end-line="58" selection-end-column="39" />
+          <folding>
+            <element signature="n#footer#0;n#html#0;n#!!top" />
+          </folding>
         </state>
       </provider>
     </entry>
