@@ -203,3 +203,16 @@ footer
     margin-right: 15px;
     font-size: 2.5em;
 }
+
+.contact_form
+{
+    margin-left: 5%;
+    margin-bottom: 5%;
+    width: 70%;
+}
+
+.form-control
+{
+    border-radius: 1rem;
+    width: 50%;
+}
